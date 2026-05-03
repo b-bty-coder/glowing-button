@@ -1,4 +1,4 @@
-# 3D Flip Card | HTML & CSS ✨
+# Glowing button| HTML & CSS ✨
 
 Daily CSS/HTML code from [@b.bty.coder](https://facebook.com/bbtycoder.dev) Facebook reels 💚
 
@@ -6,7 +6,9 @@ Daily CSS/HTML code from [@b.bty.coder](https://facebook.com/bbtycoder.dev) Face
 **[View Live Demo](https://b-bty-coder.github.io/glowing-button/)**
 
 ## 📸 Preview
-![Glowing button demo](glowing-btn.gif)  
+<p align="center">
+  <img src="./glowing-btn.gif" alt="Glowing button demo" width="600">
+</p> 
 *Hover effect: Glow button on mouse hover*
 
 ## 🛠️ Built With
