@@ -6,8 +6,8 @@ Daily CSS/HTML code from [@b.bty.coder](https://facebook.com/bbtycoder.dev) Face
 **[View Live Demo](https://b-bty-coder.github.io/glowing-button/)**
 
 ## 📸 Preview
-![3D Flip Card Demo](glowing-btn.gif)  
-*Hover effect: Card flips 180° on mouse hover*
+![Glowing button demo](glowing-btn.gif)  
+*Hover effect: Glow button on mouse hover*
 
 ## 🛠️ Built With
 - HTML5
