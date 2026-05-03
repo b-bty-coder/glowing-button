@@ -6,9 +6,7 @@ Daily CSS/HTML code from [@b.bty.coder](https://facebook.com/bbtycoder.dev) Face
 **[View Live Demo](https://b-bty-coder.github.io/glowing-button/)**
 
 ## 📸 Preview
-<p align="center">
-  <img src="./glowing-btn.gif" alt="Glowing button demo" width="600">
-</p> 
+![Login UI Demo](demo.gif)
 *Hover effect: Glow button on mouse hover*
 
 ## 🛠️ Built With
